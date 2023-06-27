@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://blue-field-0dc782800.3.azurestaticapps.net/'
 languageCode: 'en-us'
 title: 'My New Hugo Site'
 theme: 'hugo-theme-stack'
