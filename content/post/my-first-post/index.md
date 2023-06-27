@@ -2,7 +2,7 @@
 title: Hello World
 description: Welcome to Hugo Theme Stack
 slug: hello-world
-date: 2023-06-27 00:00:00+0000
+date: 2023-05-27 00:00:00+0000
 image: RE4wtc2.jpg
 categories:
     - Example Category
@@ -18,4 +18,4 @@ Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/Ca
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
 
-{{< bilibili BV1XM4y1E7Md >}}
+    {{< bilibili BV1SV411u7ik >}}
